@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LifeCicle</string>
+
+    <!-- CustomDialog-->
+    <string name="custom_input">To change</string>
+    <string name="custom_input_content_custominvalidation">Insert your text to change</string>
+    <string name="custom_input_hint">write to change</string>
+    <string name="custom_submit">change</string>
+    <string name="custom_cancel">Cancel</string>
+    <string name="custom_toast_send_pass">New change sent!!</string>
+
+
+</resources>
